@@ -8,3 +8,6 @@
 #### 操作系统
 - [ ]  __鸟哥的Linux私房菜 基础学习篇 第4版  2018.PDF__
 
+
+#### 商业管理
+- [ ]  __Steve Tighe _ Rethinking Strategy_ How To Anticipate The Future, Slow Down Change, And Improve Decision Making  2019__
