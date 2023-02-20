@@ -10,4 +10,4 @@
 
 
 #### 商业管理
-- [ ]  __Steve Tighe _ Rethinking Strategy_ How To Anticipate The Future, Slow Down Change, And Improve Decision Making  2019__
+- [ ]  __Steve Tighe _ Rethinking Strategy : How To Anticipate The Future, Slow Down Change, And Improve Decision Making  2019__
