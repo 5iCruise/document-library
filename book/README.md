@@ -6,14 +6,16 @@
 
 
 #### 操作系统
-- [ ]  __鸟哥的Linux私房菜 基础学习篇 第4版  2018.PDF__
+- [ ]  __鸟哥的Linux私房菜 基础学习篇 第4版  2018.PDF__          
 
 
 #### 商业管理
-- [ ]  __Steve Tighe _ Rethinking Strategy : How To Anticipate The Future, Slow Down Change, And Improve Decision Making  2019__
+- [ ]  __Steve Tighe _ Rethinking Strategy : How To Anticipate The Future, Slow Down Change, And Improve Decision Making  2019__      
+- [ ]  __加里 · 哈默  US _ 组织的未来：一个激发工作中每个人创造力的有效计划   2021-11__      
+   及英文版 [ Gary Hamel _ Humanocracy：Creating.Organizations.as.Amazing.as.the.People.Inside.Them   2020-08 ]     
 
 
 #### 励志心理
-- [ ]  __B.J. 福格  US _ 福格行为模型   2021-10__
+- [ ]  __B.J. 福格  US _ 福格行为模型   2021-10__    
 
 
