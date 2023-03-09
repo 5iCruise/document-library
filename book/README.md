@@ -11,3 +11,9 @@
 
 #### 商业管理
 - [ ]  __Steve Tighe _ Rethinking Strategy : How To Anticipate The Future, Slow Down Change, And Improve Decision Making  2019__
+
+
+#### 励志心理
+- [ ]  __B.J. 福格  US _ 福格行为模型   2021-10__
+
+
