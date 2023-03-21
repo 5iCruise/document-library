@@ -4,9 +4,7 @@
 更新日期: _2023.03.21_    
 
 ```
-
-【R】日常备考 【P】项目/课题 【Q】问题/跟进/解决 【D】完成/过期 【IS】想法/闪念
-
+【R】日常备考 【P】项目/课题 【Q】问题/跟进/解决 【D】完成/过期 【IS】想法/闪念      
 ```
 
 #### 0x00  工具\应用
@@ -50,6 +48,8 @@
 \[-\]【[How to Build an Android News App with React Native and Native Base](https://freecodecamp.org/news/build-an-android-news-app-with-react-native-and-native-base)】
 
 \[-\]【[Building a full stack application with Cloudflare Pages](https://blog.cloudflare.com/building-full-stack-with-pages)】
+
+\[-\]【[Hugo With Obsidian](https://immmmm.com/hugo-with-obsidian/)】
 
 
 #### 1x00  项目\应用
@@ -108,6 +108,12 @@
 \[x\] **Nobelium** 是一个使用 Next.js + Notion 第三方 API 实现的，部署在 **Vercel** 上的静态博客系统。
 [**搭建指南**](https://blog.skylershu.com/post/nobelium-deployment-guide)
 [**Github源代码**](https://github.com/5iCruise/nobelium)
+
+
+##### 1x04 【P】_PodCast播客系统   
+
+[**零成本搭建PodCast指南**](https://liujiacai.net/blog/2022/01/08/how-to-make-podcast/)
+
 
 #### 2x00  博客\部落格
 
@@ -209,6 +215,8 @@
 
 #### 5x00  研修\学习
 
+\[-\]【[Docker 从入门到实践](https://yeasy.gitbook.io/docker_practice/install/ubuntu)】
+
 \[-\]【《计算机体系结构基础》v3.0 [**在线版**](https://foxsen.github.io/archbase) 】
 
 \[-\]【[公开课[HarvardX:CS50W](https://learning.edx.org/course/course-v1:HarvardX+CS50W+Web/home#)\] 】  **CS50's Web Programming with Python and JavaScript**
@@ -236,3 +244,7 @@
 
 ~~~~~~~~~~
 /*EOF*/  by ROGER
+
+
+```
+记录规则( _编制中_ ):
