@@ -1,7 +1,7 @@
 ### LINK NOTES 
 ··· 存放个人采集的一些好用、有趣的网站/网址    
 **Capture Thoughts DENY Losing Anything.**    
-更新日期: _2023.03.21_    
+更新日期: _2023.03.23_    
 
 ```
 【R】日常备考 【P】项目/课题 【Q】问题/跟进/解决 【D】完成/过期 【IS】想法/闪念      
@@ -211,6 +211,8 @@
 \[-\] Paul Graham's Essays [https://github.com/evmn/Paul-Graham](https://github.com/evmn/Paul-Graham)
 
 \[-\] Beginner JavaScript Notes [https://wesbos.com/javascript](https://wesbos.com/javascript)
+
+\[-\] JAVA 知识点总结  [JAVA Interview ](https://tommyyang.gitbook.io/javainterview/)
 
 
 #### 5x00  研修\学习
