@@ -1,7 +1,7 @@
 ### LINK NOTES 
 ··· 存放个人采集的一些好用、有趣的网站/网址    
 **Capture Thoughts DENY Losing Anything.**    
-更新日期: _2023.03.23_    
+更新日期: _2023.03.29_    
 
 ```
 【R】日常备考 【P】项目/课题 【Q】问题/跟进/解决 【D】完成/过期 【IS】想法/闪念      
@@ -15,7 +15,7 @@
 
 【[Vercel托管](https://vercel.com/5icruise)】【[小麦云链](https://ftpod.cn/#/)】【[**DevDocs**](https://devdocs.io)】【[**网站样板Dribble**](https://dribbble.com)】【[Zapro私有盘](https://pan.zps.im)】【[Github秘籍](https://kancloud.cn/thinkphp/github-tips)】
 
-【[FreeProxyHub](https://proxyhub.me)】【[HTML2MD](https://tool.lu/markdown) **转换**】【[**ExcaliDraw**](https://excalidraw.com) 框图设计】
+【[FreeProxyHub](https://proxyhub.me)】【[HTML2MD](https://tool.lu/markdown) **转换**】【[**ExcaliDraw**](https://excalidraw.com) 框图设计】【[**箭头图案**](https://symbl.cc/cn/collections/arrow-symbols/)】
 
 
 *   **DailyRev**iew 【[热榜](https://tophub.today/dashboard)】【[后续](https://houxu.app)】【[RSS阅读](https://rss.othing.xyz/p/i)|[Pub版](https://box.othing.xyz/p/i)|[TT-RSS](https://rss.rssforever.com/#f=-3&c=0)】【[写意Blog](https://writee.org/me/c)】【[QwertyLearner](https://qwerty-learner.vercel.app)】【[**WX公众号转RSS**](https://ada.logstats.net/assets/login.html):bslib2007@163.com^1245780.a】
