@@ -1,16 +1,18 @@
 ## 参考图书夹 清单
 
 #### SQL与数据库
-- [ ]  __Ben Forta  UK _ SQL必知必会  第4版.AZW3__     
-- [ ]  __Ben Forta  UK _ MySQL必知必会   2009-01.PDF__    
+- [ ]  __Ben Forta  UK _ SQL必知必会  第4版.AZW3__   [DBA][SQL]   
+- [ ]  __Ben Forta  UK _ MySQL必知必会   2009-01.PDF__  [DBA][MySQL]  
 
 
 #### 操作系统
-- [ ]  __鸟哥的Linux私房菜 基础学习篇 第4版  2018.PDF__           
+- [ ]  __鸟哥的Linux私房菜 基础学习篇 第4版  2018.PDF__  [OS][LINUX]         
 
 
 #### 编程语言   
 - [ ]  __钟胜平 _ TypeScript入门与实战 2020.epub__  [FrontEnd][JavaScript]    
+- [ ]  __Patrick Zhong _ TypeScript Handbook 中文版  2016.epub__    [FrontEnd][JavaScript]    
+
 
 
 #### 商业管理
