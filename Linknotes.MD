@@ -115,6 +115,15 @@
 [**零成本搭建PodCast指南**](https://liujiacai.net/blog/2022/01/08/how-to-make-podcast/)
 
 
+##### 1x05 【Q】_Microsoft E5 Plan 白嫖服务(官方有效期90天）- 自动订阅程序
+
+``` E5 自动订阅程序网站关停 e5.qyi.io / Azure 续订服务异常 三方博主是否重新开启待定 → 替代方案CHECK 0407 ```   
+服务/配置/应用  相关参考（配置参数参考MD文档_发送至ROG iPhone）     
+-[B]  [E5自动订阅程序配置](https://qyi.io/archives/687.html)    ~ 更新**0407** 站点已关停       
+-[B]  [关于续订程序出现授权出错问题](https://qyi.io/archives/1042.html)       
+
+
+
 #### 2x00  博客\部落格
 
 
