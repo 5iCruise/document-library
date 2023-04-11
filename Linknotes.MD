@@ -82,7 +82,7 @@
 
 \[-\][[Pocket](https://getpocket.com/my-list)\]
 
-\[-\][[DuBox](https://dubox.com/disk/home#/all?path=%2F&vmode=list) 1T\]
+\[-\][[TeraBox](https://www.terabox.com/) 1T\]
 
 
 
@@ -165,6 +165,7 @@
 
 -[B]  **LARRY的午茶時光** [https://blog.yuyansoftware.com.tw/](https://blog.yuyansoftware.com.tw/) (#Blog)(商業、美食、閱讀)
 
+-[B]  **ZISU**  [ZISU.Dev 博客](https://zisu.dev/)  [ZISU-Github](https://github.com/thezzisu)  [Notion Blog](https://blog.zisu.dev/thezzisu/Blog-fafd4ff809844e26bb0f4353d147c2b5) (#Blog)(技术、在线SLIDES、前端)
 
 
 #### 3x00  网站\网址
@@ -195,6 +196,7 @@
 
 \[I\][SliDev](https://cn.sli.dev) 内容和效果分离的演示制作工具，支持MarkDown语法。(开源版本)
 
+
 #### 4x00  技术·记录
 
 \[√\]【[yingshishare](https://zybuluo.com/yingshishare/note/1776870)】**电影/电视分享**（Markdown） ★★★
@@ -219,9 +221,6 @@
 
 \[-\] Paul Graham's Essays [https://github.com/evmn/Paul-Graham](https://github.com/evmn/Paul-Graham)
 
-\[-\] Beginner JavaScript Notes [https://wesbos.com/javascript](https://wesbos.com/javascript)
-
-\[-\] JAVA 知识点总结  [JAVA Interview ](https://tommyyang.gitbook.io/javainterview/)
 
 
 #### 5x00  研修\学习
@@ -234,11 +233,31 @@
 
 \[-\]【[公开课[Standford:CS193P](https://cs193p.sites.stanford.edu)\] 】  **Developing Apps for iOS**
 
+\[-\]【[JavaScript程序设计](https://www.yuque.com/nrutas/js/)】    
+
+\[-\]【[TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)】    
+
+\[-\]【[Vue 3 交互式教程](https://vuejs.org/tutorial/)】   
+
+\[-\] Beginner JavaScript Notes [https://wesbos.com/javascript](https://wesbos.com/javascript)
+
+\[-\] **JAVA知识点归纳总结**  [JAVA Interview ](https://tommyyang.gitbook.io/javainterview/)
+
+\[-\] 《On Java8》 ▲    
+· [第一章](https://lingcoder.github.io/OnJava8#/book/01-What-is-an-Object)|03/23 ~      
+
+\[-\] 
+
+
+ 
+ 
 ##### 5x10 【IS】SmartBiz-_DataAnalyse-_FinTech
 
 \[-\]【[StoryBook](https://github.com/storybookjs)js开源】[搭建图形展示](https://storybook.js.org)
 
 \[-\]【[Github Actions采集RSS](https://github.com/zhaoolee/garss)】[站点展示](https://zhaoolee.com/garss) ★★
+
+
 
 ##### 5x20 【IS】知识图谱 KnowledgeGraphs
 
@@ -248,8 +267,7 @@
 
 \[-\] 【知识图谱案例：[**GeekPlux Wiki**](https://wiki.geekplux.com/#/page/GeekPlux%20Wiki)】\[基于 **_Logseq_** 产品创建（关联 **_Roam_**）\]
 
-\[-\] 《On Java8》 ▲    
-· [第一章](https://lingcoder.github.io/OnJava8#/book/01-What-is-an-Object)|03/23 ~      
+
 
 
 
