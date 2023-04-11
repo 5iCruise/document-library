@@ -1,7 +1,7 @@
 ### LINK NOTES 
 ··· 存放个人采集的一些好用、有趣的网站/网址    
 **Capture Thoughts DENY Losing Anything.**    
-更新日期: _2023.04.07_    
+更新日期: _2023.04.11_    
 
 ```
 【R】日常备考 【P】项目/课题 【Q】问题/跟进/解决 【D】完成/过期 【IS】想法/闪念      
@@ -166,6 +166,8 @@
 -[B]  **LARRY的午茶時光** [https://blog.yuyansoftware.com.tw/](https://blog.yuyansoftware.com.tw/) (#Blog)(商業、美食、閱讀)
 
 -[B]  **ZISU**  [ZISU.Dev 博客](https://zisu.dev/)  [ZISU-Github](https://github.com/thezzisu)  [Notion Blog](https://blog.zisu.dev/thezzisu/Blog-fafd4ff809844e26bb0f4353d147c2b5) (#Blog)(技术、在线SLIDES、前端)
+
+-[B]  **目的地DESTINATION**   [CHIRISON博客 目的地](https://blog.chrison.cn/)   (#Blog)(读书笔记、生活、文化)
 
 
 #### 3x00  网站\网址
