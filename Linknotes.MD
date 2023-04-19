@@ -105,21 +105,27 @@
 
 ##### 1x03 【P】_静态博客系统   
 
-\[x\] **Nobelium** 是一个使用 Next.js + Notion 第三方 API 实现的，部署在 **Vercel** 上的静态博客系统。
-[**搭建指南**](https://blog.skylershu.com/post/nobelium-deployment-guide)
-[**Github源代码**](https://github.com/5iCruise/nobelium)
+\[-\]  **Nobelium** 是一个使用 Next.js + Notion 第三方 API 实现的，部署在 **Vercel** 上的静态博客系统。
+
+\[-\]  [**搭建指南**](https://blog.skylershu.com/post/nobelium-deployment-guide)
+
+\[-\]  [**Github源代码**](https://github.com/5iCruise/nobelium)
 
 
 ##### 1x04 【P】_PodCast播客系统   
 
-[**零成本搭建PodCast指南**](https://liujiacai.net/blog/2022/01/08/how-to-make-podcast/)
+\[-\]  [**零成本搭建PodCast指南**](https://liujiacai.net/blog/2022/01/08/how-to-make-podcast/)
+
+\[-\]  [**迟早更新-探讨科技、商业、设计和生活的播客**](https://podcast.weareones.com/)
 
 
 ##### 1x05 【Q】_Microsoft E5 Plan 白嫖服务(官方有效期90天）- 自动订阅程序
 
 ``` E5 自动订阅程序网站关停 e5.qyi.io / Azure 续订服务异常 三方博主是否重新开启待定 → 替代方案CHECK 0407 ```   
 服务/配置/应用  相关参考（配置参数参考MD文档_发送至ROG iPhone）     
--[B]  [E5自动订阅程序配置](https://qyi.io/archives/687.html)    ~ 更新**0407** 站点已关停       
+
+-[B]  [E5自动订阅程序配置](https://qyi.io/archives/687.html)    ~ 更新**0407** 站点已关停     
+
 -[B]  [关于续订程序出现授权出错问题](https://qyi.io/archives/1042.html)       
 
 
