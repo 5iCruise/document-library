@@ -1,7 +1,7 @@
 ### LINK NOTES 
 ··· 存放个人采集的一些好用、有趣的网站/网址    
 **Capture Thoughts DENY Losing Anything.**    
-更新日期: _2023.04.14_    
+更新日期: _2023.04.19_    
 
 ```
 【R】日常备考 【P】项目/课题 【Q】问题/跟进/解决 【D】完成/过期 【IS】想法/闪念      
@@ -170,6 +170,8 @@
 -[B]  **目的地DESTINATION**   [CHIRISON博客 目的地](https://blog.chrison.cn/)   (#Blog)(读书笔记、生活、文化)
 
 -[B]  **D的个人博客**   [丁亮的个人博客](https://88250.b3log.org/)  (#Blog)(技术、TS、产品B3log)  [Github/88250](https://github.com/88250)  [Github/Vanessa219](https://github.com/Vanessa219)  [B3log产品官网](https://b3log.org/)
+
+-[B]  **夜未央的个人博客**   [夜未央-记录个人生活、感悟及用经济学视角对社会的观察和解读](https://www.savouer.com/)    
 
 
 #### 3x00  网站\网址
