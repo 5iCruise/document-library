@@ -14,8 +14,11 @@
 - [ ]  __Patrick Zhong _ TypeScript Handbook 中文版  2016.epub__    [FrontEnd][JavaScript]    
 
 
+#### 信创融合    
+- [ ]  __Steve Jobs  _ Make Something Wonderful   2023-04__   [Epub下载](https://ipfs.filebase.io/ipfs/QmVSWdK8aaKsB4AbN6GFbFkKcJvNKpvWUqzP4Y96H7UxZ4)   [Creation][Start-up]
 
-#### 商业管理
+
+#### 商业管理    
 - [ ]  __Steve Tighe _ Rethinking Strategy : How To Anticipate The Future, Slow Down Change, And Improve Decision Making  2019__      
 - [ ]  __加里 · 哈默  US _ 组织的未来：一个激发工作中每个人创造力的有效计划   2021-11__      
    及英文版 [ Gary Hamel _ Humanocracy：Creating.Organizations.as.Amazing.as.the.People.Inside.Them   2020-08 ]     
@@ -27,7 +30,6 @@
 
 #### 历史文化  
 - [ ]  __钱穆 _ 国史大纲 2013-08.epub__   
-
 - [ ]  __朱自清 _ 经典常谈（插图本 · 大师经典） 2014-11 上海古籍出版社__   
 
 
