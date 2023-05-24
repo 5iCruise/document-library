@@ -1,3 +1,11 @@
+---
+layout: Library
+title:  "参考与图书清单"
+categories: Reading&Books
+site: https://zbook.lol
+update:   2023-05-24
+---
+
 ## 参考图书夹 清单
 
 #### SQL与数据库
