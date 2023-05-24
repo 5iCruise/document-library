@@ -28,20 +28,20 @@ update:   2023-05-24
 
 #### 商业管理    
 - [ ]  __Steve Tighe _ Rethinking Strategy : How To Anticipate The Future, Slow Down Change, And Improve Decision Making  2019__      
-- [ ]  __加里 · 哈默  US _ 组织的未来：一个激发工作中每个人创造力的有效计划   2021-11__      
+- [ ]  __加里 · 哈默  US _ 组织的未来：一个激发工作中每个人创造力的有效计划   2021-11__      \[Management]\[HumanResource] 
    及英文版 [ Gary Hamel _ Humanocracy：Creating.Organizations.as.Amazing.as.the.People.Inside.Them   2020-08 ]     
 
 
 #### 金融投资
-- [ ]  __桑顿 L.奥格洛夫 _ 每股收益的质量：投资者了解公司真实盈利状况的指南    2023-01.PDF__     
+- [ ]  __桑顿 L.奥格洛夫 _ 每股收益的质量：投资者了解公司真实盈利状况的指南    2023-01.PDF__     \[Financial]\[Invest] 
 
 
 #### 励志心理
-- [ ]  __B.J. 福格  US _ 福格行为模型   2021-10__    
+- [ ]  __B.J. 福格  US _ 福格行为模型   2021-10__    \[Behavior]\[Psychology] 
 
 
 #### 军事战略
-- [ ]  __李德 · 哈特 UK _ 战略论：间接路线   2010-04__
+- [ ]  __李德 · 哈特 UK _ 战略论：间接路线   2010-04__   \[Military]\[Strategy] 
 
 
 #### 历史文化   
