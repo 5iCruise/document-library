@@ -9,5 +9,11 @@ ROGER.S 的个人文档库，包含了个人撰写的文章、练习项目文档
 
 
 
-**MinIO 服务在线 CHECK**    
- ![](http://47.100.11.17:8600/010/011/animate.PNG)
+**MinIO 服务在线 CHECK**     
+
+![pianoland](http://47.100.11.17:8600/010/020/IMG_6472.JPG)   uploaded by Picgo with api-key    
+
+![haha](http://47.100.11.17:8600/010/020/IMG_6471.JPG) → directly copy      
+
+[AnimateGirl](http://47.100.11.17:8600/010/011/animate.PNG)
+
