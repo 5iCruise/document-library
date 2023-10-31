@@ -7,6 +7,8 @@ ROGER.S 的个人文档库，包含了个人撰写的文章、练习项目文档
   →  案例参考 [马小帮博客](https://www.maxiaobang.com/9794.html)    
   →  个人 [DW CONSULTING](https://icruiseinfo.onmicrosoft.com)
 
+**微软全家桶**
+  →  包括 Win10 + WinServ2022 + Office2021 + Visio2021 + MAS激活脚本 [链接](https://pan.baidu.com/s/1Efb59sc94Rat78TZRZMgww?pwd=2233)    
 
 
 **MinIO 服务在线 CHECK**     
