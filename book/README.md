@@ -2,8 +2,8 @@
 layout: Library
 title:  "参考与图书清单"
 categories: Reading&Books
-site: https://zbook.lol
-update:   2023-05-24
+site: [eBook Searcher](https://book-searcher.eu.org/)
+update:   2023-12-05
 ---
 
 ## 参考图书夹 清单
@@ -37,7 +37,8 @@ update:   2023-05-24
 
 
 #### 励志心理
-- [ ]  __B.J. 福格  US _ 福格行为模型   2021-10__    \[Behavior]\[Psychology] 
+- [ ]  __B.J. 福格  US _ 福格行为模型   2021-10__    \[Behavior]\[Psychology]
+- [ ]  __吉野源三郎  脇田和 绘  JP _ 你想活出怎樣的人生  2019-08__   \[Culture]\[Fiction]\[Animation]
 
 
 #### 军事战略
