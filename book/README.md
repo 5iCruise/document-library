@@ -2,7 +2,7 @@
 layout: Library
 title:  "参考与图书清单"
 categories: Reading&Books
-site: [eBook Searcher](https://book-searcher.eu.org/)
+site: https://book-searcher.eu.org/
 update:   2023-12-05
 ---
 
