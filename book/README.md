@@ -2,8 +2,8 @@
 layout: Library
 title:  "参考与图书清单"
 categories: Reading&Books
-site: https://book-searcher.eu.org/
-update:   2023-12-05
+site: https://zh.annas-archive.org/
+update:   2023-12-25
 ---
 
 ## 参考图书夹 清单
@@ -24,6 +24,7 @@ update:   2023-12-05
 
 #### 信创赋能    
 - [ ]  __Steve Jobs  _ Make Something Wonderful   2023-04__   [Epub下载](https://ipfs.filebase.io/ipfs/QmVSWdK8aaKsB4AbN6GFbFkKcJvNKpvWUqzP4Y96H7UxZ4)   \[Innovation]\[Creativity]\[Start-up]
+- [ ]  __乔治 · 波利亚  US _ 怎样解题：数学思维的新方法   1982__   \[Innovation]\[Creativity]
 
 
 #### 商业管理    
