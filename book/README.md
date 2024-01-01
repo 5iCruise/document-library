@@ -3,7 +3,7 @@ layout: Library
 title:  "参考与图书清单"
 categories: Reading&Books
 site: https://zh.annas-archive.org/
-update:   2023-12-25
+update:   2024-01-01
 ---
 
 ## 参考图书夹 清单
@@ -40,6 +40,7 @@ update:   2023-12-25
 #### 励志心理
 - [ ]  __B.J. 福格  US _ 福格行为模型   2021-10__    \[Behavior]\[Psychology]
 - [ ]  __吉野源三郎  脇田和 绘  JP _ 你想活出怎樣的人生  2019-08__   \[Culture]\[Fiction]\[Animation]
+- [ ]  __厄休拉 · 勒古恩  US _ 我以文字为业  2023-04__  \[Culture]\[Fiction]\[Biography]
 
 
 #### 军事战略
