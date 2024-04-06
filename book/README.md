@@ -3,7 +3,7 @@ layout: Library
 title:  "参考与图书清单"
 categories: Reading&Books
 site: https://zh.annas-archive.org/
-update:   2024-02-19
+update:   2024-04-06
 ---
 
 ## 参考图书夹 清单
@@ -32,7 +32,8 @@ update:   2024-02-19
 #### 商业管理    
 - [ ]  __Steve Tighe _ Rethinking Strategy : How To Anticipate The Future, Slow Down Change, And Improve Decision Making  2019__      
 - [ ]  __加里 · 哈默  US _ 组织的未来：一个激发工作中每个人创造力的有效计划   2021-11__      \[Management]\[HumanResource] 
-   及英文版 [ Gary Hamel _ Humanocracy：Creating.Organizations.as.Amazing.as.the.People.Inside.Them   2020-08 ]     
+   及英文版 [ Gary Hamel _ Humanocracy：Creating.Organizations.as.Amazing.as.the.People.Inside.Them   2020-08 ]
+- [ ]  __詹姆斯 · 欧文 · 韦瑟罗尔 US _ 以讹传讹：错误信息如何传播 2024-02__  \[Creativity]\[Society]\[NewsBoardcast]    
 
 
 #### 金融投资
