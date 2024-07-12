@@ -3,7 +3,7 @@ layout: Library
 title:  "参考与图书清单"
 categories: Reading&Books
 site: https://zh.annas-archive.org/
-update:   2024-04-06
+update:   2024-07-12
 ---
 
 ## 参考图书夹 清单
@@ -36,7 +36,7 @@ update:   2024-04-06
 - [ ]  __詹姆斯 · 欧文 · 韦瑟罗尔 US _ 以讹传讹：错误信息如何传播 2024-02__  \[Creativity]\[Society]\[NewsBoardcast]    
 
 
-#### 金融投资
+#### 投资创业
 - [ ]  __桑顿 L.奥格洛夫 _ 每股收益的质量：投资者了解公司真实盈利状况的指南    2023-01.PDF__     \[Financial]\[Invest] 
 
 
@@ -51,13 +51,19 @@ update:   2024-04-06
 
 
 #### 历史文化   
-- [ ]  __钱穆 _ 国史大纲 2013-08.epub__   
+- [ ]  __钱穆 _ 国史大纲 2013-08.epub__    \[Culture]\[History]    
 - [ ]  __朱自清 _ 经典常谈（插图本 · 大师经典） 2014-11 上海古籍出版社__   
-- [ ]  __高華（黄骏 编整） _ 歷史筆記  vol.1  2014.PDF__   
-- [ ]  __高華（黄骏 编整） _ 歷史筆記  vol.2  2014.PDF__   
+- [ ]  __高華（黄骏 编整） _ 歷史筆記  vol.1  2014.PDF__    \[Culture]\[History]    
+- [ ]  __高華（黄骏 编整） _ 歷史筆記  vol.2  2014.PDF__    \[Culture]\[History]    
 
 #### 政治律法    
-- [ ]  __裴敏欣 _ 出賣中國：中國官場貪腐分析報告  TW 竖版  2022-03__ 
+- [ ]  __裴敏欣 _ 出賣中國：中國官場貪腐分析報告  TW 竖版  2022-03__    
+
+
+#### 纪实人文   
+- [ ]  __彼得·海斯勒  US _ Other Rivers：A Chinese Education   2024-07__  \[Culture]\[Documentrary]    
+
+
 
 
 \/* Eof *\/
