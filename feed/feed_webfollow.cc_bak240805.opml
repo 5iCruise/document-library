@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>导出订阅</title>
+    </head>
+    <body>
+         <outline text="06GALLERY" title="06GALLERY">
+            <outline text="WallpaperHub" title="WallpaperHub" type="rss" xmlUrl="https://wallpaperhub.app/wallpapers"
+                     htmlUrl="https://rsshub.app/wallpaperhub"/>
+            <outline text="书格（旧版）" title="书格（旧版）" type="rss" xmlUrl="https://www.shuge.org"
+                     htmlUrl="https://www.shuge.org/feed/"/>
+        </outline>
+        <outline text="03APPWARE" title="03APPWARE">
+            <outline text="PortableAppZ" title="PortableAppZ" type="rss" xmlUrl="http://portableappz.blogspot.com/"
+                     htmlUrl="http://feeds2.feedburner.com/blogspot/Tmnu"/>
+            <outline text="CRACKSurl" title="CRACKSurl" type="rss" xmlUrl="https://cracksurl.com/"
+                     htmlUrl="https://feeds.feedburner.com/cracksurl/post"/>
+            <outline text="Typecho爱好者博客" title="Typecho爱好者博客" type="rss" xmlUrl=""
+                     htmlUrl="https://qqdie.com/feed"/>
+            <outline text="FitGirl Repacks" title="FitGirl Repacks" type="rss" xmlUrl="https://fitgirl-repacks.site/"
+                     htmlUrl="https://fitgirl-repacks.site/feed/"/>
+        </outline>
+        <outline text="00TECHNEWS" title="00TECHNEWS">
+            <outline text="值得一读技术博客" title="值得一读技术博客" type="rss" xmlUrl="https://daily-blog.chlinlearn.top"
+                     htmlUrl="https://daily-blog.chlinlearn.top/feed"/>
+            <outline text="weekly on 子舒的博客" title="weekly on 子舒的博客" type="rss" xmlUrl="https://zishu.me/categories/weekly/"
+                     htmlUrl="https://zishu.me/categories/weekly/index.xml"/>
+            <outline text="新闻" title="新闻" type="rss" xmlUrl="http://fddi.fudan.edu.cn/_t2515/18985/list.htm"
+                     htmlUrl="https://fddi.fudan.edu.cn/_wp3services/rssoffer?siteId=477&templateId=2515&columnId=18985"/>
+            <outline text="UNTAG" title="UNTAG" type="rss" xmlUrl="https://utgd.net"
+                     htmlUrl="https://rsshub.app/utgd/timeline"/>
+            <outline text="量子位" title="量子位" type="rss" xmlUrl=""
+                     htmlUrl="https://www.qbitai.com/feed"/>
+            <outline text="让小产品的独立变现更简单 - ezindie.com" title="让小产品的独立变现更简单 - ezindie.com" type="rss" xmlUrl="https://www.ezindie.com/weekly"
+                     htmlUrl="https://www.ezindie.com/feed/rss.xml"/>
+            <outline text="TAHOLAB" title="TAHOLAB" type="rss" xmlUrl=""
+                     htmlUrl="https://www.taholab.com/feed"/>
+            <outline text="太隐" title="太隐" type="rss" xmlUrl="https://wangyurui.com/"
+                     htmlUrl="https://wangyurui.com/feed.xml"/>
+            <outline text="清华大学 TUNA 协会" title="清华大学 TUNA 协会" type="rss" xmlUrl="https://tuna.moe/"
+                     htmlUrl="https://tuna.moe/feed.xml"/>
+            <outline text="Web3Caff – 以深度视角探索 Web3 产业创新" title="Web3Caff – 以深度视角探索 Web3 产业创新" type="rss" xmlUrl="https://web3caff.com"
+                     htmlUrl="https://rsshub.app/web3caff"/>
+            <outline text="nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)" title="nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)" type="rss" xmlUrl="https://www.cyberciti.biz/atom/"
+                     htmlUrl="https://www.cyberciti.com/atom/atom.xml"/>
+            <outline text="让小产品的独立变现更简单 - ezindie.com" title="让小产品的独立变现更简单 - ezindie.com" type="rss" xmlUrl="https://www.ezindie.com/weekly"
+                     htmlUrl="https://ezindie.com/feed/rss.xml"/>
+            <outline text="一天一篇经济学人(双语)" title="一天一篇经济学人(双语)" type="rss" xmlUrl="http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29"
+                     htmlUrl="https://plink.anyfeeder.com/weixin/Economist_fans"/>
+        </outline>
+        <outline text="05MOVIE" title="05MOVIE">
+            <outline text="NEW字幕组 - 最近更新" title="NEW字幕组 - 最近更新" type="rss" xmlUrl="https://nzmz.xyz/index.html"
+                     htmlUrl="https://rsshub.app/newzmz/1"/>
+            <outline text="4k世界 -" title="4k世界 -" type="rss" xmlUrl="https://www.4ksj.com/forum-2-1.html"
+                     htmlUrl="https://rsshub.app/4ksj/forum/2-1"/>
+            <outline text="6v电影-最新电影" title="6v电影-最新电影" type="rss" xmlUrl="https://www.hao6v.cc/gvod/zx.html"
+                     htmlUrl="https://rsshub.app/6v123/latestMovies"/>
+            <outline text="6v电影-最新电影" title="6v电影-最新电影" type="rss" xmlUrl="https://www.hao6v.tv/gvod/dsj.html"
+                     htmlUrl="https://rsshub.app/6v123/latestTVSeries"/>
+            <outline text="domp4电影" title="domp4电影" type="rss" xmlUrl="https://www.domp4.cc/custom/update.html"
+                     htmlUrl="https://rsshub.app/domp4/latest/vod"/>
+        </outline>
+        <outline text="01BLOG" title="01BLOG">
+            <outline text="swyx.io" title="swyx.io" type="rss" xmlUrl="https://www.swyx.io/"
+                     htmlUrl="https://www.swyx.io/rss.xml"/>
+            <outline text="新世界的大门" title="新世界的大门" type="rss" xmlUrl=""
+                     htmlUrl="https://blog.xinshijiededa.men/atom.xml"/>
+            <outline text="LJF.COM" title="LJF.COM" type="rss" xmlUrl="https://ljf.com/"
+                     htmlUrl="https://ljf.com/feed/"/>
+            <outline text="单读" title="单读" type="rss" xmlUrl=""
+                     htmlUrl="https://rsshub.app/owspace/read/0"/>
+            <outline text="沉冰浮水" title="沉冰浮水" type="rss" xmlUrl="https://www.wdssmq.com/"
+                     htmlUrl="https://www.wdssmq.com/feed.php"/>
+            <outline text="松果会" title="松果会" type="rss" xmlUrl="http://example.com/atom.xml"
+                     htmlUrl="https://zjnanqu.top/atom.xml"/>
+            <outline text="火喵日记本" title="火喵日记本" type="rss" xmlUrl="https://cat.dorcandy.cn/"
+                     htmlUrl="https://cat.dorcandy.cn/feed"/>
+            <outline text="周刊 on 木木木木木" title="周刊 on 木木木木木" type="rss" xmlUrl="https://immmmm.com/posts/weekly/"
+                     htmlUrl="https://immmmm.com/posts/weekly/index.xml"/>
+            <outline text="#hsfzxjy#" title="#hsfzxjy#" type="rss" xmlUrl="https://i.hsfzxjy.site/"
+                     htmlUrl="https://i.hsfzxjy.site/rss.xml"/>
+            <outline text="sam的小窝" title="sam的小窝" type="rss" xmlUrl="https://www.samrainhan.com/"
+                     htmlUrl="https://www.samrainhan.com/index.xml"/>
+            <outline text="點字記" title="點字記" type="rss" xmlUrl="https://roulesophy.github.io/"
+                     htmlUrl="https://roulesophy.github.io/feed.xml"/>
+            <outline text="佐仔志" title="佐仔志" type="rss" xmlUrl="https://www.jinbo123.com"
+                     htmlUrl="https://www.jinbo123.com/feed"/>
+            <outline text="Doiiars BLOG" title="Doiiars BLOG" type="rss" xmlUrl="https://notion.doiiars.com/"
+                     htmlUrl="https://notion.doiiars.com/feed"/>
+            <outline text="KAIX.IN" title="KAIX.IN" type="rss" xmlUrl="https://kaix.in"
+                     htmlUrl="https://kaix.in/feed/"/>
+            <outline text="yun yu yuan" title="yun yu yuan" type="rss" xmlUrl="https://blog.yunyuyuan.net"
+                     htmlUrl="https://blog.yunyuyuan.net/sitemap.xml"/>
+            <outline text="
+      动物的光合作用
+    " title="
+      动物的光合作用
+    " type="rss" xmlUrl=""
+                     htmlUrl="https://mebtte.com/rss.xml"/>
+            <outline text="Asad Memon" title="Asad Memon" type="rss" xmlUrl="https://asadmemon.com/blog"
+                     htmlUrl="https://asadmemon.com/feed.xml"/>
+            <outline text="方糖07" title="方糖07" type="rss" xmlUrl="https://ft07.com"
+                     htmlUrl="https://ft07.com/feed/"/>
+            <outline text="春水煎茶" title="春水煎茶" type="rss" xmlUrl="https://writings.sh/"
+                     htmlUrl="https://writings.sh/feed"/>
+            <outline text="勿埋我心" title="勿埋我心" type="rss" xmlUrl="https://www.skyqian.com/"
+                     htmlUrl="https://www.skyqian.com/feed/"/>
+            <outline text="第三夏尔 | Third Shire" title="第三夏尔 | Third Shire" type="rss" xmlUrl="https://thirdshire.com/"
+                     htmlUrl="https://thirdshire.com/index.xml"/>
+            <outline text="子舒的博客" title="子舒的博客" type="rss" xmlUrl="https://zishu.me/"
+                     htmlUrl="https://zishu.me/index.xml"/>
+            <outline text="运维咖啡吧" title="运维咖啡吧" type="rss" xmlUrl="https://blog.ops-coffee.cn"
+                     htmlUrl="https://blog.ops-coffee.cn/feed.xml"/>
+            <outline text="More To That" title="More To That" type="rss" xmlUrl="https://moretothat.com/"
+                     htmlUrl="https://moretothat.com/feed/"/>
+            <outline text="海德沙龙（HeadSalon）" title="海德沙龙（HeadSalon）" type="rss" xmlUrl="http://headsalon.org/"
+                     htmlUrl="http://headsalon.org/feed"/>
+            <outline text="D 的个人博客" title="D 的个人博客" type="rss" xmlUrl="https://88250.b3log.org"
+                     htmlUrl="http://88250.b3log.org/rss.xml"/>
+            <outline text="花生地" title="花生地" type="rss" xmlUrl="https://ramsayleung.github.io/zh/"
+                     htmlUrl="https://ramsayleung.github.io/zh/index.xml"/>
+            <outline text="槿呈Goidea" title="槿呈Goidea" type="rss" xmlUrl="https://justgoidea.com/"
+                     htmlUrl="https://justgoidea.com/rss.xml"/>
+        </outline>
+        <outline text="04HOBBY" title="04HOBBY">
+            <outline text="静态模型爱好者" title="静态模型爱好者" type="rss" xmlUrl="http://www.moxingfans.com/"
+                     htmlUrl="https://rsshub.app/moxingfans"/>
+        </outline>
+        <outline text="02PODCAST" title="02PODCAST">
+            <outline text="这刺聊点啥" title="这刺聊点啥" type="rss" xmlUrl="https://www.ximalaya.com/album/29601116"
+                     htmlUrl="https://www.ximalaya.com/album/29601116.xml"/>
+            <outline text="迟早更新" title="迟早更新" type="rss" xmlUrl="http://podcast.weareones.com/episodes/"
+                     htmlUrl="http://podcast.weareones.com/feed/audio.xml"/>
+            <outline text="独自游" title="独自游" type="rss" xmlUrl="https://lonely-free.firstory.io"
+                     htmlUrl="https://open.firstory.me/rss/user/ckh0oybgdi7ad0836qz7bonji"/>
+            <outline text="不明白播客" title="不明白播客" type="rss" xmlUrl="http://bumingbai.net/"
+                     htmlUrl="https://feeds.buzzsprout.com/1982525.rss"/>
+            <outline text="半拿铁 | 商业沉浮录" title="半拿铁 | 商业沉浮录" type="rss" xmlUrl="https://www.ximalaya.com/sound/724666055"
+                     htmlUrl="https://proxy.wavpub.com/caffebreve.xml"/>
+            <outline text="读库立体声" title="读库立体声" type="rss" xmlUrl="https://www.xiaoyuzhoufm.com/podcast/60f54b75d11a7622d645df4e?utm_source=rss"
+                     htmlUrl="https://feed.xyzfm.space/rfmgh49cg8be"/>
+            <outline text="Steve说" title="Steve说" type="rss" xmlUrl="http://steveshuo.com/"
+                     htmlUrl="http://steveshuo.com/rss"/>
+            <outline text="naive理想国" title="naive理想国" type="rss" xmlUrl="https://api.vistopia.com.cn/rss/program/156.xml"
+                     htmlUrl="https://api.vistopia.com.cn/rss/program/156.xml"/>
+            <outline text="大上海歌舞厅" title="大上海歌舞厅" type="rss" xmlUrl="https://www.ximalaya.com/album/31383317"
+                     htmlUrl="https://www.ximalaya.com/album/31383317.xml"/>
+            <outline text="世界莫名其妙物语" title="世界莫名其妙物语" type="rss" xmlUrl="https://www.ximalaya.com/sound/731181514"
+                     htmlUrl="https://s1.proxy.wavpub.com/bizarrestories.xml"/>
+            <outline text="文化土豆 Culture Potato" title="文化土豆 Culture Potato" type="rss" xmlUrl="https://www.culturepotato.com"
+                     htmlUrl="https://feeds.acast.com/public/shows/5e0b6ece81be870a61107c66"/>
+            <outline text="Sinica Podcast" title="Sinica Podcast" type="rss" xmlUrl="https://sinica.substack.com/podcast"
+                     htmlUrl="https://api.substack.com/feed/podcast/2079154.rss"/>
+            <outline text="蜜獾吃书" title="蜜獾吃书" type="rss" xmlUrl="https://www.ximalaya.com/album/64689453"
+                     htmlUrl="https://www.ximalaya.com/album/64689453.xml"/>
+            <outline text="硬影像" title="硬影像" type="rss" xmlUrl="https://hardimage.pro"
+                     htmlUrl="https://hardimage.pro/feed/audio.xml"/>
+            <outline text="中文播客榜 - 热门播客" title="中文播客榜 - 热门播客" type="rss" xmlUrl="https://xyzrank.com/#/hot-podcasts"
+                     htmlUrl="https://rsshub.app/xyzrank/hot-podcasts"/>
+            <outline text="展开讲讲" title="展开讲讲" type="rss" xmlUrl="https://www.ximalaya.com/album/24672021"
+                     htmlUrl="https://www.ximalaya.com/album/24672021.xml"/>
+            <outline text="知識好好玩" title="知識好好玩" type="rss" xmlUrl="https://www.mirrorvoice.com.tw/"
+                     htmlUrl="https://feed.mirrorvoice.com.tw/rss/knowledgeprogram.xml"/>
+            <outline text="电影拉片课 | 硬核影迷进阶必备" title="电影拉片课 | 硬核影迷进阶必备" type="rss" xmlUrl="https://www.ximalaya.com/album/29364890"
+                     htmlUrl="https://www.ximalaya.com/album/29364890.xml"/>
+            <outline text="歧义 Disagreement" title="歧义 Disagreement" type="rss" xmlUrl="https://www.xiaoyuzhoufm.com/podcast/62512eadd32de5100e543485?utm_source=rss"
+                     htmlUrl="https://feed.xyzfm.space/c434wfmtpc3n"/>
+            <outline text="问题不大NoBigDeal" title="问题不大NoBigDeal" type="rss" xmlUrl="https://www.ximalaya.com/album/49570973"
+                     htmlUrl="https://www.ximalaya.com/album/49570973.xml"/>
+            <outline text="银杏树下" title="银杏树下" type="rss" xmlUrl="https://www.ximalaya.com/album/51007459"
+                     htmlUrl="https://www.ximalaya.com/album/51007459.xml"/>
+            <outline text="跑题大会" title="跑题大会" type="rss" xmlUrl=""
+                     htmlUrl="https://www.ximalaya.com/album/14641355.xml"/>
+            <outline text="天才捕手FM-打捞带劲的职业故事" title="天才捕手FM-打捞带劲的职业故事" type="rss" xmlUrl="https://www.ximalaya.com/album/31511010"
+                     htmlUrl="https://s1.proxy.wavpub.com/storyhunting.xml"/>
+            <outline text="博闻强记的富内斯" title="博闻强记的富内斯" type="rss" xmlUrl="https://www.xiaoyuzhoufm.com/podcast/62eac7c0b995fd7e5620e9b3?utm_source=rss"
+                     htmlUrl="https://feed.xyzfm.space/rd3mgk3wrmrd"/>
+        </outline>
+    </body>
+</opml>
