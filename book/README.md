@@ -2,8 +2,8 @@
 layout: Library
 title:  "参考与图书清单"
 categories: Reading&Books
-site: https://zh.annas-archive.org/
-update:   2024-07-12
+site: zh.annas-archive.org | 1lib.sk
+update:   2024-12-05
 ---
 
 ## 参考图书夹 清单
@@ -57,7 +57,8 @@ update:   2024-07-12
 - [ ]  __高華（黄骏 编整） _ 歷史筆記  vol.2  2014.PDF__    \[Culture]\[History]    
 
 #### 政治律法    
-- [ ]  __裴敏欣 _ 出賣中國：中國官場貪腐分析報告  TW 竖版  2022-03__    
+- [ ]  __裴敏欣 _ 出賣中國：中國官場貪腐分析報告  TW 竖版  2022-03__
+- [ ]  __戴维 · 雷姆尼克 US _ 列宁墓：苏联帝国的末日岁月 第2版（个译） 1994-05__
 
 
 #### 纪实人文   
