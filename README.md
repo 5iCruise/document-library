@@ -20,7 +20,7 @@ DW 的个人文档库，包含了个人撰写的文章、练习项目文档、�
  *  2021-09  [MarkDown 写作发布剪藏](https://5icruise.gitlab.io/i-cruise-news)    
  *  2023-09  [Github 免费图床项目](https://picx.darkwarrior2025.xyz/)    
  *  2023-12  [Gemini Pro-Chat AI聊天项目](https://chat.darkwarrior2025.xyz/)    
- *  2024-02  [基于 Calibre-Web 的精读书库](#IP "云主机搭建")    
+ *  2024-02  [基于 Calibre-Web 的精读书库]([#IP](http://服务器IP:8083) "自费云主机搭建")    
  *  2024-12  [GitHub 星标项目页面](https://mygstar.darkwarrior2025.xyz/)    
 
 ### Todo
