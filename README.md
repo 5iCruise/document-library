@@ -3,7 +3,7 @@ layout: PKM
 title:  "文档聚合库"
 categories: Documents&Thread
 site: DarkWarrior Studio
-update:   2024-12-23
+update:   2025-01-26
 ---
 
 # Documents' Aggregative Library
@@ -13,7 +13,7 @@ DW 的文档聚合库，包含了个人撰写的文章、练习项目文档、�
 
 ## 项目列表
 
-### Self-Hosted Services && Site  
+### Self-Hosted Services && Web Sites  
  *  2020-09  [我的文字吐槽项目](https://darkwarrior2025.xyz/wodebibi)    
  *  2021-02  [图片水印打码](https://darkwarrior2025.xyz/picwatermark)    
  *  2021-04  [EPub在线阅读](https://darkwarrior2025.xyz/epubreader)    
@@ -21,7 +21,8 @@ DW 的文档聚合库，包含了个人撰写的文章、练习项目文档、�
  *  2023-09  [Github 免费图床项目](https://picx.darkwarrior2025.xyz/)    
  *  2023-12  [Gemini Pro-Chat AI聊天项目](https://chat.darkwarrior2025.xyz/)    
  *  2024-02  [基于 Calibre-Web 的精读书库](http://服务器IP:8083 "自费云主机搭建")    
- *  2024-12  [GitHub 星标项目页面](https://mygstar.darkwarrior2025.xyz/)    
+ *  2024-12  [GitHub 星标项目页面](https://mygstar.darkwarrior2025.xyz/)
+ *  2025-01  [微信公众号 Markdown 编辑器](https://mdeditor.darkwarrior2025.xyz/) 「可 IP:9087 访问」
 
 ### Todo
 
