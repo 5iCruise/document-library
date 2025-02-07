@@ -3,7 +3,7 @@ layout: Library
 title:  "参考与图书清单"
 categories: Reading&Books
 site: zh.annas-archive.org | 1lib.sk
-update:   2024-12-05
+update:   2025-02-07
 ---
 
 ## 参考图书夹 清单
@@ -63,6 +63,7 @@ update:   2024-12-05
 
 #### 纪实人文   
 - [ ]  __彼得·海斯勒  US _ Other Rivers：A Chinese Education   2024-07__  \[Culture]\[Documentrary]    
+- [ ]  __杨继绳 _ 墓碑：中国六十年代大饥荒纪实 2007-08__ \[Culture]\[Documentrary]     
 
 
 
