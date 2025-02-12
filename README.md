@@ -3,7 +3,7 @@ layout: PKM
 title:  "文档聚合库"
 categories: Documents&Thread
 site: DarkWarrior Studio
-update:   2025-01-26
+update:   2025-02-12
 ---
 
 # Documents' Aggregative Library
@@ -28,9 +28,10 @@ DW 的文档聚合库，包含了个人撰写的文章、练习项目文档、�
 ### Todo
 
  - [ ] 吐槽项目 + GTD 整合
- - [ ] Gemini Pro 升级  
+ - [ ] Gemini Pro 升级 → 本地化应用结合 
  - [ ] OPDS + Calibre 的移动应用
  - [ ] 免费图床插件管理 → 文本编辑器（Typora、MWeb 等）
+ - [ ] RSS 阅读器
 
 ## 综合
 
