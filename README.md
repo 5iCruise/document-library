@@ -3,7 +3,7 @@ layout: PKM
 title:  "文档聚合库"
 categories: Documents&Thread
 site: DarkWarrior Studio
-update:   2025-08-28
+update:   2025-12-11
 ---
 
 # Documents' Aggregative Library
@@ -18,13 +18,14 @@ DW 的文档聚合库，包含了个人撰写的文章、练习项目文档、�
  *  2021-02  [图片水印打码](https://darkwarrior2025.xyz/picwatermark)    
  *  2021-04  [EPub在线阅读](https://darkwarrior2025.xyz/epubreader)    
  *  2021-09  [MarkDown 写作发布剪藏](https://5icruise.gitlab.io/i-cruise-news)
- *  2023-08  [MarkDown 在线版简历](https://cv-md-snowy.vercel.app/)
+ *  2023-08  [~~MarkDown 在线版简历~~](https://*/ "停服")  「VERCEL DEPLOYMENT DELETED」
  *  2023-09  [Github 免费图床项目](https://picx.darkwarrior2025.xyz/)    
  *  2023-12  [~~Gemini Pro-Chat AI聊天项目~~](https://*/ "停服/归档") 「PROJECT DELETED」   
  *  2024-02  [基于 Calibre-Web 的精读书库](http://服务器IP:8083 "自费云主机搭建")    
  *  2024-12  [GitHub 星标项目页面](https://mygstar.darkwarrior2025.xyz/)
  *  2025-01  [微信公众号 Markdown 编辑器](https://mdeditor.darkwarrior2025.xyz/) 「可 IP:9087 访问」
- *  2025-08  [每周工作计划备忘](https://darkwarrior2025.xyz/task/)  
+ *  2025-08  [每周工作计划备忘](https://darkwarrior2025.xyz/task/)
+ *  2025-12  [网站聚合导航](https://rognavipool.vercel.app/) 
 
 ### Todo
 
