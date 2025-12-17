@@ -3,7 +3,7 @@ layout: PKM
 title:  "文档聚合库"
 categories: Documents&Thread
 site: DarkWarrior Studio
-update:   2025-12-11
+update:   2025-12-17
 ---
 
 # Documents' Aggregative Library
@@ -35,6 +35,14 @@ DW 的文档聚合库，包含了个人撰写的文章、练习项目文档、�
  - [ ] 免费图床插件管理 → 文本编辑器（Typora、MWeb、Obsidian 等）
  - [ ] RSS 阅读聚合服务 （微信公众号→Feeds）
 
+<img src="https://github.com/lfnovo/open-notebook/raw/main/docs/assets/hero.svg" width=50>
+
+## AI驱动项目 
+
+**私有笔记应用案**
+ - [ ] [Open Notebook](https://github.com/lfnovo/open-notebook "一个开源的、注重隐私的 Google Notebook LM 替代方案") open-notebook.ai
+ - [ ] [Lumina Note](https://github.com/blueberrycongee/Lumina-Note "支持 Agent 自动化的 Markdown 笔记应用")  
+
 ## 综合
 
 **~~E5 DEV账号注册及自动续订（最新）方法~~**   2023-07更新 「失效」    
@@ -48,6 +56,8 @@ DW 的文档聚合库，包含了个人撰写的文章、练习项目文档、�
 
 **JetBrains 全家桶**    
   →  
+
+
   
 
 /* Eof */
