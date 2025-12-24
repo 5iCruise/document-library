@@ -3,7 +3,7 @@ layout: Library
 title:  "参考与图书清单"
 categories: Reading&Books
 site: zh.annas-archive.org | 1lib.sk
-update:   2025-02-07
+update:   2025-12-25
 ---
 
 ## 参考图书夹 清单
@@ -57,12 +57,15 @@ update:   2025-02-07
 - [ ]  __高華（黄骏 编整） _ 歷史筆記  vol.2  2014.PDF__    \[Culture]\[History]    
 
 #### 政治律法    
-- [ ]  __裴敏欣 _ 出賣中國：中國官場貪腐分析報告  TW 竖版  2022-03__
-- [ ]  __戴维 · 雷姆尼克 US _ 列宁墓：苏联帝国的末日岁月 第2版（个译） 1994-05__
+- [ ]  __裴敏欣 _ 出賣中國：中國官場貪腐分析報告  TW 竖版  2022-03__   
+- [ ]  __戴维 · 雷姆尼克 US _ 列宁墓：苏联帝国的末日岁月 第2版（个译） 1994-05__   
+- [ ]  __詹姆斯 · 斯科特 US _ 讚美洪水  文明的干預如何抑制河流的重生  CHT  2025-09__    
+- [ ]  __詹姆斯 · 斯科特 US _ 逃避统治的艺术 (修订译本)   2019-08__    
 
 
 #### 纪实人文   
-- [ ]  __彼得·海斯勒  US _ Other Rivers：A Chinese Education   2024-07__  \[Culture]\[Documentrary]    
+- [ ]  __彼得·海斯勒（何偉） US _ Other Rivers：A Chinese Education   2024-07__  \[Culture]\[Documentrary]
+- [ ]  __彼得·海斯勒（何偉） US _ 别江 (作品集06) 2025-10__  \[Culture]\[Documentrary]
 - [ ]  __杨继绳 _ 墓碑：中国六十年代大饥荒纪实 2007-08__ \[Culture]\[Documentrary]     
 
 
