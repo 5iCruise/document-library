@@ -2,7 +2,7 @@
 layout: PKM
 title:  "文档聚合库"
 categories: Documents&Thread
-site: [DarkWarrior Studio](https://dwstudio.eu.cc/)
+site: DarkWarrior Studio
 update:   2026-03-19
 ---
 
